@@ -1,5 +1,5 @@
-const DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1543708320685367417/oMkOJx02x_EYDfS-rfafzQ8-BixQ0GruxFNp7F4F7WCEbJXtVUDlList4IR4CzE8ttWZ';
-const DISCORD_WEBHOOK_VERIFICATION = 'https://discord.com/api/webhooks/1543708320685367417/oMkOJx02x_EYDfS-rfafzQ8-BixQ0GruxFNp7F4F7WCEbJXtVUDlList4IR4CzE8ttWZ';
+const DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1555050804321325066/eki89RStJo8xUc5oM5Vwl4N_VavKg3BkipFGrr8-A_ZVRVuhqpwfBNbxlaoxBjESkkgm';
+const DISCORD_WEBHOOK_VERIFICATION = 'https://discord.com/api/webhooks/1555050804321325066/eki89RStJo8xUc5oM5Vwl4N_VavKg3BkipFGrr8-A_ZVRVuhqpwfBNbxlaoxBjESkkgm';
 
 async function getLocationInfo() {
     try {
